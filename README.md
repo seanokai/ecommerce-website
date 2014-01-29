@@ -1,4 +1,2 @@
-ecommerce-website
+inclass-ecommerce
 =================
-
-ecommerce webiste type style 
