@@ -8,6 +8,7 @@
 }
 html, body {
 	height: 100%;
+	color: #FDFDFD;
 }
 .page-wrap {
   min-height: 100%;
@@ -23,7 +24,7 @@ html, body {
 	height: 142px; 
 }
 .site-footer {
-  background: orange;
+  background: #435369;
 }
 
 @import url('http://fonts.googleapis.com/css?family=Lato:300');
