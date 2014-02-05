@@ -76,15 +76,15 @@ small, .milli {
 h1, h2, h3, h4, h5, h6,
 .brand {
   color: #95A9C8;
-  font-family: "Patua One",serif;
+  font-family: "helvetica",serif;
 }
 
 .brand-family {
-  font-family: "Patua One",serif;
+  font-family: "Helvetica",serif;
 }
 
 .brand-color {
-  color: #5d8432;
+  color: #156EB2;
 }
 
 a,
@@ -92,13 +92,13 @@ a:link {
   border-bottom: 0.1em solid rgba(121,50,132,0.5);
   transition: all 150ms linear;
 
-  color: #793284;
+  color: #D15A5C;
   text-decoration: none;
 }
 
 a:visited {
   color: #68446e;
-  border-bottom-color: rgba(104,68,110,0.5);
+  border-bottom-color: rgba(147,70,71,1.00);
 }
 
 a:hover,
@@ -175,7 +175,7 @@ ul li:before {
   position: absolute;
   left: -0.6em;
 
-  color: #c7c0ae;
+  color: #B42022;
 }
 
 blockquote {
@@ -186,6 +186,7 @@ blockquote {
 
 blockquote footer {
   margin-top: -1.5rem;
+  color:#B42022;
 
   text-align: right;
 }
@@ -202,7 +203,7 @@ caption {
 }
 
 th {
-  background-color: #eae8e1;
+  background-color: #F28888;
 
   text-align: left;
 }
