@@ -96,16 +96,16 @@ body {
 	display: block;
 	padding: 0.5em 10px;
 
-	color: #e2e2e2;
+	color: #95A9C8;
 	text-decoration: none;
 }
 
 .nav a:hover,
 .nav a:focus,
 .nav a:active {
-	background-color: #222;
+	background-color: #f2f1ed;
 
-	color: #fff;
+	color: #D15A5C;
 }
 
 .nav-bottom {

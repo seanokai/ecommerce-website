@@ -26,9 +26,10 @@ html, body {
 .site-footer {
   background: #435369;
 }
-
-@import url('http://fonts.googleapis.com/css?family=Lato:300');
-@import url('http://weloveiconfonts.com/api/?family=entypo');
+			/*
+			@import url('http://fonts.googleapis.com/css?family=Lato:300');
+			@import url('http://weloveiconfonts.com/api/?family=entypo');
+			*/
 
 * {
   margin: 0;
