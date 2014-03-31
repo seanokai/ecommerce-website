@@ -2,20 +2,22 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Retro Games</title>
+    <title>{% if page.title %}{{page.title}} . {% endif %}Retro Games{% if page.titleAfter %} . {{page.titleAfter}}{% endif %}</title>
     <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
+    <meta name="description" content="{{page.meta}}">
 </head>
 <body>
 
 <header>
 	<h1> Retro Games </h1>
-    {% include nav.html %}
+    {% include nav.html navclass='nav-top' %}
 </header>
+   {% include promo-large.html %}
     
 {{content}}
 
 <footer>
-	{% include nav.html %}
+	{% include nav.html navclass='nav-bottom' %}
     <p>© 2014 Retro games</p>
 </footer>
 
