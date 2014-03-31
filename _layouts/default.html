@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>{% if page.title %}{{page.title}} . {% endif %}Retro Games{% if page.titleAfter %} . {{page.titleAfter}}{% endif %}</title>
+    <link href="../css/list-group.css" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+<link href="../css/typography.css" rel="stylesheet">
+<link href="../css/buttons.css" rel="stylesheet">
+<link href="../css/promo-small.css" rel="stylesheet">
     <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
     <meta name="description" content="{{page.meta}}">
 </head>
@@ -12,8 +17,7 @@
 	<h1> Retro Games </h1>
     {% include nav.html navclass='nav-top' %}
 </header>
-   {% include promo-large.html %}
-   {% include promo-small.html %}
+ 
 {{content}}
 
 <footer>
