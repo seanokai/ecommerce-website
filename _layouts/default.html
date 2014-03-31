@@ -1,23 +1,23 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Retro Games</title>
+    <meta charset="UTF-8">
+    <title>Retro Games</title>
+    <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body>
 
 <header>
-	<strong> Retro Games </strong>
-    <nav>
-    	<ul>
-        	<li><a href="{{site.basurl}}/index.html">Home</a></li>
-           <li><a href="{{site.basurl}}/gameforsale.html">Games For Sale</a></li>
-        </ul>
-    </nav>
+	<h1> Retro Games </h1>
+    {% include nav.html %}
 </header>
-
     
 {{content}}
+
+<footer>
+	{% include nav.html %}
+    <p>© 2014 Retro games</p>
+</footer>
 
 </body>
 </html>
