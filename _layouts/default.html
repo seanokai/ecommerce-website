@@ -22,15 +22,28 @@
 <body>
 	 
 
-		<header role="banner">
-			<h1> Retro Games </h1>
-    			{% include nav.html navclass='nav-top' %}
+		<header>
+        	<div class="grid grid-bottom">
+            <div class="unit unit-s-1 unit-m-1 unit-l-1">
+            <h1 class="push-0">
+            	<img class="img-flex logo" src="../img/logo.svg" alt="Joystick logo">
+                </h1>
+             </div>
+             <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
+             
+             
+             
+             </div>
+           	
+                <h1> Retro Games </h1>
+                    {% include nav.html navclass='nav-top' %}
     
 		</header>
-        
+        {% if page.showbanner %}
         <div class="banner">
-        	<h2>N64 cartridge Life!</h2>
+        	<h2>{{page.bannertext}}</h2>
         </div>
+        {% endif %}
 		
 				{{content}}
 	

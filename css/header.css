@@ -203,3 +203,12 @@ background-size: cover;
 padding: 5em 1em 1em;
 text-align: center;
 }
+
+.push-0 {
+	margin-bottom: 0;
+}
+
+.image-flex {
+	width: 100%;
+	display: block;
+}
