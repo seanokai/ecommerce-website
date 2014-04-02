@@ -16,17 +16,24 @@
     <link href="../css/product-list.css" rel="stylesheet">
     <link href="../css/search-field.css" rel="stylesheet">
     <link href="http://weloveiconfonts.com/api/?family=entypo" rel="stylesheet">
+    <link href="../css/grid.css" rel="stylesheet">
     <meta name="description" content="{{page.meta}}">
 </head>
 <body>
+	 
 
-<header role="banner">
-	<h1> Retro Games </h1>
-    {% include nav.html navclass='nav-top' %}
-</header>
- 
-{{content}}
-
+		<header role="banner">
+			<h1> Retro Games </h1>
+    			{% include nav.html navclass='nav-top' %}
+    
+		</header>
+        
+        <div class="banner">
+        	<h2>N64 cartridge Life!</h2>
+        </div>
+		
+				{{content}}
+	
 <footer>
 	{% include nav.html navclass='nav-bottom' %}
     <p>© 2014 Retro games</p>
