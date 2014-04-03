@@ -32,8 +32,11 @@
              <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
              	<ul class="list-group giga brand-family push-0 nav">
                 <li class="list-group-item list-group-item-inline">
-                	<a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
+                	<a class="{% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
                 </li>
+                <li><li class="list-group-item list-group-item-inline">
+          <a class="{% if page.url contains 'dinosaurs' %}current{% endif %}" href="{{site.baseurl}}/dinosaurs/">Dinosaurs</a>
+        </li>
                 </ul>
                 </nav>
              
