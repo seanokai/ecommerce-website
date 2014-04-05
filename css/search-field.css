@@ -21,7 +21,8 @@ input{
 	background-color: #ffffff;
 	border: none;
 	font-size: 16px;
-	padding: 10px 0px 10px 0px;
+	padding: 13px;
+	margin: 0;
 }
 
 
@@ -52,8 +53,6 @@ input{
 }
 
 .showSearch input{
-	margin-left: 10px;
-	margin-right: 10px;
 	width: 200px;
 	opacity: 1;
 }
