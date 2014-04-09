@@ -9,10 +9,10 @@ showbanner: yes
 <h1>Games for sale</h1>
 
 <ul>
-	{% for %}
+	{% for games in site.posts %}
     <li>
-    	<a href=""></a>
-        <p></p>
+    	<a href="">{{games.title}}</a>
+        <p>{{games.meta}}</p>
      </li>
      {% endfor %}
 </ul>
