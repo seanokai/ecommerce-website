@@ -1,4 +1,9 @@
 ---
+layout: news
+title: Who said Nintedo was dead for ever?
+meta: Nintendo 64 is making a huge comeback
+category: gamesforsale
+---
 
 
 <div class="promo-small unit unit-s-1 unit-m-1-2 unit-l-1-3">
