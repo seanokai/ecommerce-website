@@ -79,7 +79,7 @@ body {
 }
 
 .nav {
-	background-color: #000;
+	background-color: rgba(78, 0, 0, 0.48);
 }
 
 .nav > ul {
@@ -198,7 +198,7 @@ input{
 }
 
 .banner {
-background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
+background: #CFD1D3 url("../images/banner.jpg") no-repeat center center;
 background-size: cover;
 padding: 5em 1em 1em;
 text-align: center;

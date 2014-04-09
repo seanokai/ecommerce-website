@@ -1,0 +1,10 @@
+---
+
+
+<div class="promo-small unit unit-s-1 unit-m-1-2 unit-l-1-3">
+<h1>Small Promo</h1>
+<img class="pimage" src="../images/PS4-Console-wDS4.jpg" alt="">
+<h2>Playstation 4</h2>
+<li class="list-group-item">The new Playstation 4 out in stores and online!</li>
+<a class="btn giga" href="#">Buy now!!</a>
+</div>

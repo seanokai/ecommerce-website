@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-  border-bottom: 0.1em solid rgba(121,50,132,0.5);
+  border-bottom: 0.1em solid rgba(87,122,131,1.00);
   transition: all 150ms linear;
 
   color: #D15A5C;
@@ -97,7 +97,7 @@ a:link {
 }
 
 a:visited {
-  color: #68446e;
+  color: #877374;
   border-bottom-color: rgba(147,70,71,1.00);
 }
 
@@ -105,7 +105,7 @@ a:hover,
 a:focus,
 a:active {
   color: #b42885;
-  border-bottom-color: #b42885;
+  border-bottom-color: #61191B;
 }
 
 
