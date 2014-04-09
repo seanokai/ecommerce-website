@@ -14,3 +14,10 @@ html {
 	font-size: 1.25rem;
 }
 	
+#centrepos {
+	text-align:center;
+}
+
+.middle {
+	text-align:center;
+}

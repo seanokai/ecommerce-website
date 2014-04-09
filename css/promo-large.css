@@ -1,5 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 .pimage {
-	width:700px;
+	width:800px;
+}
+
+
+#largecontent {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
 }

@@ -8,6 +8,7 @@
     <link href="../css/typography.css" rel="stylesheet">
     <link href="../css/buttons.css" rel="stylesheet">
     <link href="../css/promo-small.css" rel="stylesheet">
+    <link href="../css/promo-large.css" rel="stylesheet">
     <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
     <link href="../css/typography.css" rel="stylesheet">
     <link href="../css/media-object.css" rel="stylesheet">
@@ -30,21 +31,21 @@
                 </h1>
              </div>
              <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
-             	<ul class="list-group giga brand-family push-0 nav">
-                <li class="list-group-item list-group-item-inline">
+             	<ul class=" middle list-group giga brand-family push-0 nav">
+                	<li class="list-group-item list-group-item-inline">
                 	<a class="{% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
                 </li>
-                <li class="list-group-item list-group-item-inline">
-          <a class="{% if page.url contains 'dinosaurs' %}current{% endif %}" href="{{site.baseurl}}/dinosaurs/">Games for sale</a>
-        </li>
-                </ul>
-                </nav>
-             
-             
-             
-             </div>
+                	<li class="list-group-item list-group-item-inline">
+                  <a href="{{site.basurl}}/gameforsale.html" class="{% if page.url == '/gameforsale.html' %}current{% endif %}">Games For Sale</a>
+                </li>
+                  <li class="list-group-item list-group-item-inline">
+                  <a href="{{site.basurl}}/about.html" class="{% if page.url == '/about.html' %}current{% endif %}">About us</a>
+                </li>
+        		</ul>
+             </nav>
+            </div>
            	
-                <h1> Retro Games </h1>
+                <h1 id="centrepos"> Retro Games </h1>
                   
     
 		</header>
