@@ -181,10 +181,11 @@ input{
 }
 
 .showSearch input{
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left:;
+	margin-right:;
 	width: 200px;
 	opacity: 1;
+	padding: 1.5rem 1em;
 }
 
 .showSearch a{
