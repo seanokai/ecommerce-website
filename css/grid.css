@@ -1,4 +1,4 @@
-.grid {
+  .grid {
   margin: 0;
   padding: 0;
   letter-spacing: -0.31em;
@@ -7,7 +7,7 @@
   -webkit-flex-flow: row wrap;
   display: -ms-flexbox;
   -ms-flex-flow: row wrap;
-}
+  }
 
 .grid-bottom {
   -webkit-align-items: flex-end;
@@ -189,7 +189,8 @@
 }
 
 .unit-l-2-3 {
-  width: 66.6667%;
+  width: 65%;
+  margin: 0 17.5%;
 }
 
 .unit-offset-l-2-3 {
