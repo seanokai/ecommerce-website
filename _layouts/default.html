@@ -57,12 +57,23 @@
                 	<li class="list-group-item list-group-item-inline">
                 	<a class="{% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
                 </li>
+                <!-- page links to the game folder in ur root ecommerce. Remember u linked them diff, compare the other links. thos are on ur root folder. this one is not.. its in ur games folder on the root directory that has its own index page --->
+                <li class="list-group-item list-group-item-inline">
+                  <a href="{{site.basurl}}/games" class="{% if page.url == '/games' %}current{% endif %}">Games 'R' Us</a>
+                </li>
+                
                 	<li class="list-group-item list-group-item-inline">
                   <a href="{{site.basurl}}/gameforsale.html" class="{% if page.url == '/gameforsale.html' %}current{% endif %}">Game updates</a>
                 </li>
                   <li class="list-group-item list-group-item-inline">
                   <a href="{{site.basurl}}/about.html" class="{% if page.url == '/about.html' %}current{% endif %}">About us</a>
                 </li>
+                
+                <li class="list-group-item list-group-item-inline">
+                  <a href="{{site.basurl}}/cart.html" class="{% if page.url == '/cart.html' %}current{% endif %}">Cart</a>
+                </li>
+                
+                
                 
                 <!--<li><div class="search-bar" role="search">
                 	<form method="get" class="searchform cf" action="{{site.baseurl}}/searchfield/">
