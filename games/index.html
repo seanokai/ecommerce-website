@@ -2,21 +2,46 @@
 layout: default
 title: Games for sale
 meta: games for sale at an affordable price whilst capturing your nostalgic moments.
-bannertext: Go forth into bit world
+bannertext: Games and Accessories for sale
 showbanner: yes
 ---
 
-<h1>Games for sale</h1>
-<p> A wide selection of n64 games </p>
+<h1>Go forth into bit world</h1>
 
+<div class=""
 <ul class="grid">
 	{% for games in site.pages %}
     	{% if games.category == "games" %}
         	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
             	<a href="{{site.baseurl}}{{games.url}}">
-                <img class="pimage" src="../images/headsetps4.jpg" class="img-flex" alt="different games">
+                <img class="pimage img-flex" src="../images/headsetps4.jpg" alt="different games">
+               </a>
+             </li>
+            {% endif %}
+           {% endfor %}
+        </ul>
+         <ul class="grid">
+	{% for games in site.pages %}
+    	{% if games.category == "console" %}
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+            	<a href="{{site.baseurl}}{{games.url}}">
+                <img class="pimage img-flex" src="../img/mlgheadset.jpg" alt="accessories">
+               </a>
+             </li>
+            {% endif %}
+           {% endfor %}
+         
+         </ul>
+          <ul class="grid">
+	{% for games in site.pages %}
+    	{% if games.category == "catridge" %}
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+            	<a href="{{site.baseurl}}{{games.url}}">
+                <img class="pimage img-flex" src="../img/spectreheadset.jpg" alt="a">
                </a>
              </li>
             {% endif %}
            {% endfor %}
          </ul>
+         
+         

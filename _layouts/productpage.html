@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<h1>{{page.name}}</h1>
+<!--make a diff class for image size, it looks too small on the product list--->
+<img class="pimage" src="{{site.baseurl}}/images/{{page.image}}" alt="describe the image">
+
 {{content}}
 
 <a href="{{site.baseurl}}/cart.html"><h6 class="btn">Buy now</h6></a>

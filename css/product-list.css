@@ -8,6 +8,10 @@
 .pimage {
 	width:150px;
 }
+
+.pimagelarge {
+	width:100%;
+}
 	
 .colour {
 	colour: #D15A5C;
