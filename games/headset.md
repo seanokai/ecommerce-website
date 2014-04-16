@@ -6,6 +6,6 @@ price range: 120$- 140$
 title: n64 ps4
 ---
 
-how do you do tdaykwcnkfcmeckwn
-k4vnreknc elk
+#The new Headset Gaer for your Playstaytion 4
 
+![Image alt attribute](http://../images/headsetps4.com/image.jpg)
