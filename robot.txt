@@ -1,0 +1,6 @@
+#http://robotstxt.org
+
+Sitemap:http://seanokai.github.io/ecommerce-website
+
+user-agent:
+Disallow:

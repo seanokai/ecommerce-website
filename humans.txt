@@ -1,17 +1,45 @@
-# humanstxt.org
+                            
+/* TEAM */
 
-# TEAM
+                            
+Your title: Sean Okai.
 
+                            
+Site: http://seanokai.github.io/ecommerce-website/
 
+                            
+Twitter: @seanokai.
 
----
+                            
+Location: ottawa, Canada.
 
-# THANKS
+                         
+                 
+						
 
-Public domain images from copyrightexpired.com
+							
+/* THANKS */
 
----
+							
+Name: Thomas bradley for teaching me how to code an ecommerce website
 
-# TECHNOLOGY
+Name: Elisa koon for helping me code my website.
 
+						
+       
+                        
 
+                            
+/* SITE */
+
+                            
+Last update: 2014/04/22 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: HTML and CSS
+
+                            
+Software: Dreamweaver
