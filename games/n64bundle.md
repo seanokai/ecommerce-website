@@ -1,18 +1,18 @@
 ---
 layout: productpage
 category: console
-image: nosbundle.jpg
-title: n64 ps4
+image: ps4.jpg
+title: ps4
 ---
 
-#The new and revised N64
+#The new and revised PS4 with more space and quicker respojnse time
 
 
 ###desicription: 
-New games are so back in the past that 8 bits are making a comeback. Enjoy your nostalgic days with a bit more UX understadning when playing your favourite games. The Classic N64 with some games and a controller.
+The PlayStation 4 (officially abbreviated as PS4), is a video game console from Sony Computer Entertainment. Announced as the successor to the PlayStation 3 during a press conference on 20 February 2013, it was launched on 15 November 2013, in North America, and 29 November 2013, in Europe and Australia.
 
 ###price: 
-$280
+$399
 
 ##Ages: 10+
 
