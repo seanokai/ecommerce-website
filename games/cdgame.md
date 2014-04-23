@@ -10,8 +10,7 @@ ages: 4+
 
 The classic N64 package that delivered everything to get us to the next century
 
-##Price:
+###Price:
  $299
 
-##Ages: 
-10+
+##Ages: 10+
