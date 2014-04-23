@@ -28,7 +28,7 @@
 .btn:hover {
 	background-color:#FCFAFA;
 	border-color:#21B01C;
-	color:#469E2E
+	color:#469E2E;
 }
 .btn:active {
 	position:relative;
