@@ -39,7 +39,7 @@ body {
 	height: 70px;
 	margin: 0 10px 0;
 	padding: 45px;
-	width: 80px;
+	width: 80%;
 
 	background: transparent url("../img/logo.svg") no-repeat left top;
 	background-size: 80px auto;
