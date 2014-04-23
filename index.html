@@ -12,12 +12,18 @@ showbanner: yes
 <p id="centrepos"> lots of retro game for sale at a low price!!! come buy your nostalgic moments back!</p>
 
 <div class="grid">
-	{%include promo-large.html %}
+	{% include promo-large.html %}
 </div>
+
+<!-- Small promo-->
 <div class="grid">
-    {%include promo-small.html %}
-    {%include promo-small.html %}
-    {%include promo-small.html %}
+	<div class="img-flex">
+    {% include promo-small.html title="cd" desc="good cd" image="micps4.jpg" url="games/" %}
+    
+    
+    {% include promo-small.html %}
+    {% include promo-small.html %}
+    </div>
 </div>
 
    
