@@ -47,4 +47,17 @@ showbanner: yes
            {% endfor %}
          </ul>
          
+         <ul class="grid">
+	{% for games in site.pages %}
+    	{% if games.category == "console" %}
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+            	<a href="{{site.baseurl}}{{games.url}}">
+                <img class="pimage img-flex" src="../img/N64bundle.jpg" alt="accessories">
+               </a>
+               <p> Console
+             </li>
+            {% endif %}
+           {% endfor %}
+         
+         </ul>
          
