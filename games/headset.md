@@ -1,7 +1,7 @@
 ---
 layout: productpage
 category: games
-image: n64bundle.jpg
+image: N64bundle.jpg
 price range: 120$- 140$
 title: n64 ps4
 ---
