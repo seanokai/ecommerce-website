@@ -5,7 +5,7 @@ image: ps4.jpg
 title: ps4
 ---
 
-#The new and revised PS4 with more space and quicker respojnse time
+#The new and revised PS4 with more space and quicker response time
 
 
 ###desicription: 
