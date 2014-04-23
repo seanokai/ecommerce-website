@@ -1,7 +1,7 @@
 ---
 layout: productpage
 category: console
-image: mlgheadset.jpg
+image: nosbundle.jpg
 price range: 120$- 140$
 title: n64 ps4
 ---
