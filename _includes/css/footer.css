@@ -6,9 +6,9 @@
 * {
 	margin: 0;
 }
-html, body {
+html, {
 
-	color: #FDFDFD;
+	color: #FFFFFF;
 }
 .page-wrap {
   min-height: 100%;
@@ -36,12 +36,10 @@ html, body {
   padding: 0;
 }
 
-html, body {
 
-}
 
 body {
-  background: #ddd;
+  background: #FFFFFF;
 }
 
 .content {

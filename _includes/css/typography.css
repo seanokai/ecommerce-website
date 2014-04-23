@@ -11,9 +11,9 @@
  */
 
 html {
-  background-color: #f2f1ed;
+  background-color: #FFFFFF;
 
-  color: #444;
+  color: #FFFFFF;
   font: normal 100%/1.5 Georgia,serif; /* 16px/24px */
 }
 
@@ -22,6 +22,11 @@ p, ul, ol, dl,
 blockquote, table, hr {
   margin: 0 0 1.5rem;
 }
+
+p {
+	color:#550002;
+}
+
 
 .yotta {
   font-size: 2.2807rem;
