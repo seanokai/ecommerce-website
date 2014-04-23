@@ -9,10 +9,10 @@ showbanner: yes
 <h1>Go forth into bit world</h1>
 
 <div class=""
-<ul class="grid">
+<ul class="grid list-group">
 	{% for games in site.pages %}
     	{% if games.category == "games" %}
-        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3 list-group-item">
             	<a href="{{site.baseurl}}{{games.url}}">
                 <img class="pimage img-flex" src="../img/8bitbundle.jpg" alt="different games">
                </a>
@@ -21,10 +21,10 @@ showbanner: yes
             {% endif %}
            {% endfor %}
         </ul>
-         <ul class="grid">
+         <ul class="grid list-group">
 	{% for games in site.pages %}
     	{% if games.category == "cdgame" %}
-        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3 list-group-item">
             	<a href="{{site.baseurl}}{{games.url}}">
                 <img class="pimage img-flex" src="../img/N64bundle.jpg" alt="accessories">
                </a>
@@ -34,10 +34,10 @@ showbanner: yes
            {% endfor %}
          
          </ul>
-          <ul class="grid">
+          <ul class="grid list-group">
 	{% for games in site.pages %}
     	{% if games.category == "catridge" %}
-        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3 list-group-item">
             	<a href="{{site.baseurl}}{{games.url}}">
                 <img class="pimage img-flex" src="../img/donk.jpg" alt="a">
                </a>
@@ -47,10 +47,10 @@ showbanner: yes
            {% endfor %}
          </ul>
          
-         <ul class="grid">
+         <ul class="grid list-group">
 	{% for games in site.pages %}
     	{% if games.category == "console" %}
-        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+        	<li class="unit unit-s-1 unit-m-1-2 unit-l-1-3 list-group-item">
             	<a href="{{site.baseurl}}{{games.url}}">
                 <img class="pimage img-flex" src="../img/ps4.jpg" alt="accessories">
                </a>

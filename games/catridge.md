@@ -10,11 +10,11 @@ ages: 4+
 
 ##Donkey Kong Racing
 
-Race around different stages in order to become the champion. OHH the good ol days
+Race around different stages in order to become the champion. OHH the good ol days.
 
 Remember the games that made you tear when you were a child? Dont hesitate to miss out on your child hood memories 
 
-##Price:
+###Price:
 $40.00
 
 ##Ages: 5+

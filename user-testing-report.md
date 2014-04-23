@@ -1,44 +1,38 @@
 # User Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by {Sean okai} on {april 17} between the times of {12:00} and {12:54pm} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
+- {Jeffery Grant}
+- {Elisa Koon}
+- {Anita Chantavong}
 
 ## Tasks
 
-1. {First task description here}
-2. {Second task description here}
-3. {Third task description here}
+1. {Go to checkout page}
+2. {enter a search in the search field}
+3. {go to the thank you page and then back to the home page}
 
 ---
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### {Jeffery Grant}
 
-- {She clicked on the link as expected…}
-- {She had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {He got to the link as expected without any problems}
 
-### {John Doe}
+### {Elisa Koon}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {She asked how to get back up page if you had missed it}
+- {She was able to get to the search field and input something}
+- {She got to the search results page}
 
-### {Jordan Doe}
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+### {Anita Chantavong}
+
+- {She got to the thank you page with no problems}
+- {getting back to the home was abit tricky for her}
+- {colors blended resulting inn poor choice}
+- {fixed it and she got to the home page}
 
 ---
 
@@ -46,15 +40,13 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {color selection}
+- {orientation of some photos}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {Voice does not activate sometimes}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {topics with different information on them}
