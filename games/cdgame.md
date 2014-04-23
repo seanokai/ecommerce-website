@@ -4,7 +4,7 @@ category: cdgame
 image: N64bundle.jpg
 price: $30 each
 title: n64
-name: N64 Bundle
+name: 
 ages: 4+
 ---
 
